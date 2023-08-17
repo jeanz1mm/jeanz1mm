@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jeanz1mm
+- 👀 I'm a student, passionate about technology and programming
+- 🌱 I'm focused on expanding my programming skills. My goal is to immerse myself in artificial intelligence, participate in innovative projects and use technology for positive changes in society.
